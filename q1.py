@@ -8,3 +8,5 @@ f=pd.read_csv("Video_Games_Sales_as_at_22_Dec_2016.csv")
 tot=len(f)
 count=f.isnull().sum()/tot*100
 print(count)
+print(count)
+print(count)
